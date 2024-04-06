@@ -4,12 +4,17 @@
   "name": "obj_ground_player",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Player_Parent","path":"objects/Player_Parent/Player_Parent.yy",},"propertyId":{"name":"hp","path":"objects/Player_Parent/Player_Parent.yy",},"value":"100",},
+  ],
   "parent": {
-    "name": "Player",
-    "path": "folders/Objects/Player.yy",
+    "name": "Ground",
+    "path": "folders/Objects/Player/Ground.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Player_Parent",
+    "path": "objects/Player_Parent/Player_Parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +30,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spaceman",
+    "path": "sprites/spaceman/spaceman.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
