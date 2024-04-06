@@ -6,10 +6,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Objects/Player.yy",
+    "name": "Space",
+    "path": "folders/Objects/Player/Space.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Player_Parent",
+    "path": "objects/Player_Parent/Player_Parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
