@@ -2,18 +2,20 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_ground_player",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Player_Parent","path":"objects/Player_Parent/Player_Parent.yy",},"propertyId":{"name":"hp","path":"objects/Player_Parent/Player_Parent.yy",},"value":"100",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"hp","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"100",},
   ],
   "parent": {
     "name": "Ground",
     "path": "folders/Objects/Player/Ground.yy",
   },
   "parentObjectId": {
-    "name": "Player_Parent",
-    "path": "objects/Player_Parent/Player_Parent.yy",
+    "name": "obj_player_parent",
+    "path": "objects/obj_player_parent/obj_player_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

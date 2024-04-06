@@ -1,18 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_space_player",
-  "eventList": [],
+  "name": "obj_enemy_weapon",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":7,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Space",
-    "path": "folders/Objects/Player/Space.yy",
+    "name": "Weapons",
+    "path": "folders/Objects/Enemies/Weapons.yy",
   },
-  "parentObjectId": {
-    "name": "obj_player_parent",
-    "path": "objects/obj_player_parent/obj_player_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,7 +25,9 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"damage","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"5","varType":0,},
+  ],
   "solid": false,
   "spriteId": null,
   "spriteMaskId": null,
