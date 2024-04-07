@@ -1,5 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
 event_inherited();
 
 if mouse_check_button_pressed(mb_left) {
@@ -7,11 +5,5 @@ if mouse_check_button_pressed(mb_left) {
 	with (_inst) {
 		direction = other._facing_direction
 		image_angle = other._facing_direction
-	}
-	
-	
-	//REMOVE LATER
-	if(!instance_exists(obj_basic_enemy)){
-		room_goto(win)
 	}
 }
