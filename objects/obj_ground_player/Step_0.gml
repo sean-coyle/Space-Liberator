@@ -22,6 +22,7 @@ if is_firing_primary and !alarm[0] {
 		image_angle = other._facing_direction
 	}
 	
+
 	alarm[0] = primary_fire_rate
 }
 
@@ -38,3 +39,7 @@ if is_firing_secondary and !alarm[0] {
 	alarm[0] = secondary_fire_rate
 }
 
+//REMOVE LATER
+	if(!instance_exists(obj_basic_enemy)){
+		room_goto(win)
+	}
