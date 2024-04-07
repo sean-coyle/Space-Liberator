@@ -77,6 +77,7 @@
     {"id":{"name":"obj_gold_mine","path":"objects/obj_gold_mine/obj_gold_mine.yy",},},
     {"id":{"name":"obj_enemy_fort","path":"objects/obj_enemy_fort/obj_enemy_fort.yy",},},
     {"id":{"name":"obj_enemy_bullet","path":"objects/obj_enemy_bullet/obj_enemy_bullet.yy",},},
+    {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
     {"id":{"name":"obj_ground_player","path":"objects/obj_ground_player/obj_ground_player.yy",},},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},},
     {"id":{"name":"rmP5Ground","path":"rooms/rmP5Ground/rmP5Ground.yy",},},
