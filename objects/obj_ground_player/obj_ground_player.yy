@@ -2,15 +2,12 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_ground_player",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"hp","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"100",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"primary_weapon","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"obj_bullet",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"secondary_weapon","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"obj_grenade",},
   ],
   "parent": {
     "name": "Ground",
@@ -33,10 +30,7 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"primary_fire_rate","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"20","varType":1,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"secondary_fire_rate","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"30","varType":0,},
-  ],
+  "properties": [],
   "solid": false,
   "spriteId": {
     "name": "spaceman",
