@@ -8,6 +8,5 @@ if hp <= 0 {
 if(instance_exists(obj_player_parent) and !is_stunned) {
 	direction = point_direction(x, y, obj_player_parent.x, obj_player_parent.y)
 	speed = spd
+	image_angle = direction
 }
-
-image_angle = direction
