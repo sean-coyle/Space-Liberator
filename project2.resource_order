@@ -1,4 +1,21 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Ground","order":1,"path":"folders/Objects/Enemies/Ground.yy",},
+    {"name":"Space","order":2,"path":"folders/Objects/Enemies/Space.yy",},
+    {"name":"Sprites","order":3,"path":"folders/Objects/Enemies/Ground/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"missile","order":1,"path":"sprites/missile/missile.yy",},
+    {"name":"obj_missile","order":3,"path":"objects/obj_missile/obj_missile.yy",},
+    {"name":"obj_grenade","order":2,"path":"objects/obj_grenade/obj_grenade.yy",},
+    {"name":"obj_space_spawner","order":1,"path":"objects/obj_space_spawner/obj_space_spawner.yy",},
+    {"name":"obj_laser","order":4,"path":"objects/obj_laser/obj_laser.yy",},
+    {"name":"laser","order":2,"path":"sprites/laser/laser.yy",},
+    {"name":"enemy_ranged","order":1,"path":"sprites/enemy_ranged/enemy_ranged.yy",},
+    {"name":"obj_ground_spawner","order":2,"path":"objects/obj_ground_spawner/obj_ground_spawner.yy",},
+    {"name":"obj_basic_enemy","order":3,"path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},
+    {"name":"spr_space_enemy_1","order":2,"path":"sprites/spr_space_enemy_1/spr_space_enemy_1.yy",},
+    {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_ground_ranged","order":4,"path":"objects/obj_ground_ranged/obj_ground_ranged.yy",},
+  ],
 }

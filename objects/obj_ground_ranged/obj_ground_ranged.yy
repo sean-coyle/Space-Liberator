@@ -1,21 +1,20 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemy_bullet",
+  "name": "obj_ground_ranged",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Weapons",
-    "path": "folders/Objects/Enemies/Weapons.yy",
+    "name": "Ground",
+    "path": "folders/Objects/Enemies/Ground.yy",
   },
   "parentObjectId": {
-    "name": "obj_enemy_weapon",
-    "path": "objects/obj_enemy_weapon/obj_enemy_weapon.yy",
+    "name": "obj_basic_enemy",
+    "path": "objects/obj_basic_enemy/obj_basic_enemy.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,12 +30,12 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spd","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"10","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"distance_goal","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"250","varType":0,},
   ],
   "solid": false,
   "spriteId": {
-    "name": "bullet",
-    "path": "sprites/bullet/bullet.yy",
+    "name": "enemy_ranged",
+    "path": "sprites/enemy_ranged/enemy_ranged.yy",
   },
   "spriteMaskId": null,
   "visible": true,
