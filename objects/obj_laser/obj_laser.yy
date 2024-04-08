@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ground_spawner",
+  "name": "obj_laser",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Ground",
-    "path": "folders/Objects/Enemies/Ground.yy",
+    "name": "Subweapons",
+    "path": "folders/Objects/Player/Weapons/Subweapons.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_bullet",
+    "path": "objects/obj_bullet/obj_bullet.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "laser",
+    "path": "sprites/laser/laser.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
