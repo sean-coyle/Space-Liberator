@@ -8,7 +8,6 @@ if !alarm[0] {
 	speed = knock_back_amount
 	speed = lerp(speed, spd, 0.5)
 
-	//deal_damage(obj_player, attack_damage)
 	other.hp -= attack_damage
 	
 	alarm[0] = attack_speed

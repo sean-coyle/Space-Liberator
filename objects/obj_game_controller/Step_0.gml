@@ -15,7 +15,11 @@ if(room != lose or room != win){
 				room_goto(win);
 			}
 		}
-	} 
+	} else {
+		if instance_exists(obj_lose) {
+			obj_lose.visible = true
+		}
+	}
 }
 
 

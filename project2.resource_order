@@ -1,11 +1,12 @@
 {
   "FolderOrderSettings": [
     {"name":"Ground","order":1,"path":"folders/Objects/Enemies/Ground.yy",},
-    {"name":"Space","order":2,"path":"folders/Objects/Enemies/Space.yy",},
     {"name":"Sprites","order":3,"path":"folders/Objects/Enemies/Ground/Sprites.yy",},
+    {"name":"Space","order":2,"path":"folders/Objects/Enemies/Space.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"missile","order":1,"path":"sprites/missile/missile.yy",},
+    {"name":"obj_lose","order":1,"path":"objects/obj_lose/obj_lose.yy",},
     {"name":"obj_missile","order":3,"path":"objects/obj_missile/obj_missile.yy",},
     {"name":"obj_grenade","order":2,"path":"objects/obj_grenade/obj_grenade.yy",},
     {"name":"obj_space_spawner","order":1,"path":"objects/obj_space_spawner/obj_space_spawner.yy",},
