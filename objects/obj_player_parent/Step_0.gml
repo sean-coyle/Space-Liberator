@@ -55,7 +55,6 @@ if is_firing_primary and !alarm[0] {
 		image_angle = other._facing_direction
 	}
 	
-
 	alarm[0] = primary_fire_rate
 }
 

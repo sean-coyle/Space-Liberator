@@ -1,8 +1,7 @@
 // this will prevent jitter of the grenade
 if point_distance(x,y,dest_x,dest_y) < speed {
-	x = dest_x
-	y = dest_y
-	speed = 0
+	instance_create_layer(x,y,"Instances", obj_explosion, expl_props);
+	instance_destroy()
 } else {
 	move_towards_point(dest_x, dest_y, speed)
 }

@@ -6,4 +6,4 @@ image_yscale = 0.5
 
 speed = spd
 
-alarm[0] = fuse_time
+expl_props = {damage:10, explosion_time:10}
