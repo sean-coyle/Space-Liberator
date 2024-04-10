@@ -4,10 +4,15 @@
   "name": "obj_assault_rifle",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"fire_rate","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"20",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"mag_size","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"25",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"max_ammo","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"100",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"ammo_type","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"obj_bullet",},
+  ],
   "parent": {
-    "name": "Primaries",
-    "path": "folders/Objects/Player/Weapons/Primaries.yy",
+    "name": "Assault Rifle",
+    "path": "folders/Objects/Player/Weapons/Primaries/Assault Rifle.yy",
   },
   "parentObjectId": {
     "name": "obj_plr_weapon",
@@ -28,7 +33,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "assault_rifle",
+    "path": "sprites/assault_rifle/assault_rifle.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

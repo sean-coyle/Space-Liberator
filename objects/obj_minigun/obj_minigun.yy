@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Primaries",
-    "path": "folders/Objects/Player/Weapons/Primaries.yy",
+    "name": "Minigun",
+    "path": "folders/Objects/Player/Weapons/Primaries/Minigun.yy",
   },
   "parentObjectId": {
     "name": "obj_plr_weapon",

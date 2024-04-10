@@ -3,6 +3,9 @@
 // _ammo_count will be decreased each time the weapon is fired
 _ammo_count = mag_size
 
+// held ammo decreases when the weapon is reloaded
+_held_ammo = max_ammo
+
 // Use this to store info about the ammo variables
 // It is used when firing the weapon
 _ammo_props = {}

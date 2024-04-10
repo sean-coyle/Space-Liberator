@@ -4,10 +4,15 @@
   "name": "obj_sniper",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"max_ammo","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"20",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"mag_size","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"5",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"fire_rate","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"40",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"ammo_type","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"obj_sniper_round",},
+  ],
   "parent": {
-    "name": "Primaries",
-    "path": "folders/Objects/Player/Weapons/Primaries.yy",
+    "name": "Sniper",
+    "path": "folders/Objects/Player/Weapons/Primaries/Sniper.yy",
   },
   "parentObjectId": {
     "name": "obj_plr_weapon",
@@ -28,7 +33,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sniper_rifle",
+    "path": "sprites/sniper_rifle/sniper_rifle.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

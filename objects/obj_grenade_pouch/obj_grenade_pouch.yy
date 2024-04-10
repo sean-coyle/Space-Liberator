@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Secondaries",
-    "path": "folders/Objects/Player/Weapons/Secondaries.yy",
+    "name": "Grenade Pouch",
+    "path": "folders/Objects/Player/Weapons/Secondaries/Grenade Pouch.yy",
   },
   "parentObjectId": {
     "name": "obj_plr_weapon",

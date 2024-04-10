@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Secondaries",
-    "path": "folders/Objects/Player/Weapons/Secondaries.yy",
+    "name": "Pistol",
+    "path": "folders/Objects/Player/Weapons/Secondaries/Pistol.yy",
   },
   "parentObjectId": {
     "name": "obj_plr_weapon",
