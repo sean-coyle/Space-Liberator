@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSet2",
+  "name": "TileSetDesert",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -9,15 +9,15 @@
     "TileSerialiseData": [],
   },
   "out_columns": 13,
-  "out_tilehborder": 0,
-  "out_tilevborder": 0,
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
   "parent": {
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "Sprite5",
-    "path": "sprites/Sprite5/Sprite5.yy",
+    "name": "spr_desertmap",
+    "path": "sprites/spr_desertmap/spr_desertmap.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
@@ -214,10 +214,10 @@
   },
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
-  "tileHeight": 16,
+  "tileHeight": 32,
   "tilehsep": 0,
   "tilevsep": 0,
-  "tileWidth": 16,
+  "tileWidth": 32,
   "tilexoff": 0,
   "tileyoff": 0,
 }

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite5",
-  "bbox_bottom": 207,
+  "name": "world1groundtileset",
+  "bbox_bottom": 575,
   "bbox_left": 0,
-  "bbox_right": 223,
+  "bbox_right": 639,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"24f84d97-7fd0-4a70-a61f-bf248096cc16",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b5d5a484-37b9-45a1-abc1-fea3b579f951",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 208,
+  "height": 576,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f28815da-db99-4365-b2e0-95599b91063a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7f8b5ee0-b18e-49a9-a852-815098fdddf3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite5",
+    "name": "world1groundtileset",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"24f84d97-7fd0-4a70-a61f-bf248096cc16","path":"sprites/Sprite5/Sprite5.yy",},},},"Disabled":false,"id":"d5a9948b-d03e-4776-8c60-1864b8a9fd18","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b5d5a484-37b9-45a1-abc1-fea3b579f951","path":"sprites/world1groundtileset/world1groundtileset.yy",},},},"Disabled":false,"id":"da22946d-dca9-49f9-b167-e7dc1d938d26","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 224,
+  "width": 640,
 }
