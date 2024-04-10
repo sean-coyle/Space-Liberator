@@ -1,16 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_instructions",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
-  ],
+  "name": "obj_ammo_pickup",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Temporary Stuff",
-    "path": "folders/Temporary Stuff.yy",
+    "name": "Pickups",
+    "path": "folders/Objects/Player/Pickups.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "instructions",
-    "path": "sprites/instructions/instructions.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

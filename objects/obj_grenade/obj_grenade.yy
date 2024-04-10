@@ -10,12 +10,12 @@
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"damage","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"1",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_damage_source","path":"objects/obj_plr_damage_source/obj_plr_damage_source.yy",},"propertyId":{"name":"damage","path":"objects/obj_plr_damage_source/obj_plr_damage_source.yy",},"value":"1",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"propertyId":{"name":"spd","path":"objects/obj_bullet/obj_bullet.yy",},"value":"20",},
   ],
   "parent": {
-    "name": "Subweapons",
-    "path": "folders/Objects/Player/Weapons/Subweapons.yy",
+    "name": "Damage Sources",
+    "path": "folders/Objects/Player/Weapons/Damage Sources.yy",
   },
   "parentObjectId": {
     "name": "obj_impact_grenade",

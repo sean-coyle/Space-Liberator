@@ -8,12 +8,12 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Subweapons",
-    "path": "folders/Objects/Player/Weapons/Subweapons.yy",
+    "name": "Damage Sources",
+    "path": "folders/Objects/Player/Weapons/Damage Sources.yy",
   },
   "parentObjectId": {
-    "name": "obj_plr_weapon",
-    "path": "objects/obj_plr_weapon/obj_plr_weapon.yy",
+    "name": "obj_plr_damage_source",
+    "path": "objects/obj_plr_damage_source/obj_plr_damage_source.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,7 +29,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spd","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"15","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spd","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"20","varType":0,},
   ],
   "solid": false,
   "spriteId": {

@@ -1,0 +1,45 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "obj_sniper_round",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"propertyId":{"name":"spd","path":"objects/obj_bullet/obj_bullet.yy",},"value":"30",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_damage_source","path":"objects/obj_plr_damage_source/obj_plr_damage_source.yy",},"propertyId":{"name":"damage","path":"objects/obj_plr_damage_source/obj_plr_damage_source.yy",},"value":"20",},
+  ],
+  "parent": {
+    "name": "Damage Sources",
+    "path": "folders/Objects/Player/Weapons/Damage Sources.yy",
+  },
+  "parentObjectId": {
+    "name": "obj_bullet",
+    "path": "objects/obj_bullet/obj_bullet.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"penetration","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"1","varType":1,},
+  ],
+  "solid": false,
+  "spriteId": {
+    "name": "sniper_round",
+    "path": "sprites/sniper_round/sniper_round.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
