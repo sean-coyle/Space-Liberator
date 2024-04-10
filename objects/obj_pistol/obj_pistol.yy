@@ -1,15 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lose",
+  "name": "obj_pistol",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Temporary Stuff",
-    "path": "folders/Temporary Stuff.yy",
+    "name": "Pistol",
+    "path": "folders/Objects/Player/Weapons/Secondaries/Pistol.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_plr_weapon",
+    "path": "objects/obj_plr_weapon/obj_plr_weapon.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Sprite9",
-    "path": "sprites/Sprite9/Sprite9.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

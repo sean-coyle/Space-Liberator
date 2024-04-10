@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Subweapons",
-    "path": "folders/Objects/Player/Weapons/Subweapons.yy",
+    "name": "Damage Sources",
+    "path": "folders/Objects/Player/Weapons/Damage Sources.yy",
   },
   "parentObjectId": {
     "name": "obj_bullet",

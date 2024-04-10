@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+/*
 if(room != lose or room != win){
 	if(instance_exists(obj_player_parent)){
 		if(room == rmP1Space){
@@ -21,7 +21,7 @@ if(room != lose or room != win){
 		}
 	}
 }
-
+*/
 
 
 
