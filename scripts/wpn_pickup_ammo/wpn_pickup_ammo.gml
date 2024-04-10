@@ -1,3 +1,4 @@
+// THIS SHOULD ONLY BE CALLED BY obj_plr_weapon OR ITS CHILDREN
 
 // picks up ammo but clamps it to the max amount for that weapon
 function wpn_pickup_ammo(_amount){

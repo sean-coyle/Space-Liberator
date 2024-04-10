@@ -3,7 +3,6 @@
 
 if hp <= 0 {
 	instance_destroy();
-	//show_debug_message("ouchie i died")
 }
 
 x = clamp(x, sprite_width/2, room_width - sprite_width/2);

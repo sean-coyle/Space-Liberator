@@ -21,6 +21,7 @@
     {"name":"obj_impact_grenade","order":5,"path":"objects/obj_impact_grenade/obj_impact_grenade.yy",},
     {"name":"obj_missile","order":3,"path":"objects/obj_missile/obj_missile.yy",},
     {"name":"obj_grenade","order":2,"path":"objects/obj_grenade/obj_grenade.yy",},
+    {"name":"wpn_shoot","order":2,"path":"scripts/wpn_shoot/wpn_shoot.yy",},
     {"name":"sniper_round","order":4,"path":"sprites/sniper_round/sniper_round.yy",},
     {"name":"obj_space_spawner","order":1,"path":"objects/obj_space_spawner/obj_space_spawner.yy",},
     {"name":"obj_laser","order":4,"path":"objects/obj_laser/obj_laser.yy",},
@@ -31,8 +32,10 @@
     {"name":"obj_basic_enemy","order":3,"path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},
     {"name":"spr_space_enemy_1","order":2,"path":"sprites/spr_space_enemy_1/spr_space_enemy_1.yy",},
     {"name":"obj_plr_weapon","order":2,"path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},
+    {"name":"obj_impact_pouch","order":1,"path":"objects/obj_impact_pouch/obj_impact_pouch.yy",},
     {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
     {"name":"sniper_rifle","order":1,"path":"sprites/sniper_rifle/sniper_rifle.yy",},
+    {"name":"wpn_reload","order":1,"path":"scripts/wpn_reload/wpn_reload.yy",},
     {"name":"obj_ground_ranged","order":4,"path":"objects/obj_ground_ranged/obj_ground_ranged.yy",},
   ],
 }

@@ -1,5 +1,4 @@
 enum STATES{
-	FISHING,
 	TALKING,
 	REGULAR, // default is a keyword :(
 }
@@ -16,8 +15,6 @@ _seco_weapon = instance_create_layer(x,y, "Instances", secondary_weapon)
 
 current_weapon = _prim_weapon.id
 
-show_debug_message("prim: {0}", _prim_weapon.id)
-show_debug_message("curr: {0}", current_weapon)
 // This list contains the IDs of entities who have hit the enemy
 // Check if an entity has previously hit before allowing for it to deal damage again
 hit_by = ds_list_create()
