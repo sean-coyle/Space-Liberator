@@ -6,7 +6,6 @@
   ],
   "ResourceOrderSettings": [
     {"name":"missile","order":1,"path":"sprites/missile/missile.yy",},
-    {"name":"obj_lose","order":1,"path":"objects/obj_lose/obj_lose.yy",},
     {"name":"impactnade","order":3,"path":"sprites/impactnade/impactnade.yy",},
     {"name":"obj_impact_grenade","order":5,"path":"objects/obj_impact_grenade/obj_impact_grenade.yy",},
     {"name":"obj_missile","order":3,"path":"objects/obj_missile/obj_missile.yy",},
