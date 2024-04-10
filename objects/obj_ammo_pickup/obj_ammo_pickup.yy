@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_laser",
+  "name": "obj_ammo_pickup",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Damage Sources",
-    "path": "folders/Objects/Player/Weapons/Damage Sources.yy",
+    "name": "Pickups",
+    "path": "folders/Objects/Player/Pickups.yy",
   },
-  "parentObjectId": {
-    "name": "obj_bullet",
-    "path": "objects/obj_bullet/obj_bullet.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "laser",
-    "path": "sprites/laser/laser.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

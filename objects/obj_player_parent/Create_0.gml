@@ -8,6 +8,9 @@ state = STATES.REGULAR
 
 _facing_direction = 0
 
+// This holds the ID of the weapon being used
+current_weapon = 0
+
 is_firing_primary = false
 alarm[0] = 0
 

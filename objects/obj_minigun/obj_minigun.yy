@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_laser",
+  "name": "obj_minigun",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Damage Sources",
-    "path": "folders/Objects/Player/Weapons/Damage Sources.yy",
+    "name": "Primaries",
+    "path": "folders/Objects/Player/Weapons/Primaries.yy",
   },
   "parentObjectId": {
-    "name": "obj_bullet",
-    "path": "objects/obj_bullet/obj_bullet.yy",
+    "name": "obj_plr_weapon",
+    "path": "objects/obj_plr_weapon/obj_plr_weapon.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "laser",
-    "path": "sprites/laser/laser.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

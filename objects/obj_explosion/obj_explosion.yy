@@ -9,15 +9,15 @@
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"damage","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"10",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_damage_source","path":"objects/obj_plr_damage_source/obj_plr_damage_source.yy",},"propertyId":{"name":"damage","path":"objects/obj_plr_damage_source/obj_plr_damage_source.yy",},"value":"10",},
   ],
   "parent": {
-    "name": "Subweapons",
-    "path": "folders/Objects/Player/Weapons/Subweapons.yy",
+    "name": "Damage Sources",
+    "path": "folders/Objects/Player/Weapons/Damage Sources.yy",
   },
   "parentObjectId": {
-    "name": "obj_plr_weapon",
-    "path": "objects/obj_plr_weapon/obj_plr_weapon.yy",
+    "name": "obj_plr_damage_source",
+    "path": "objects/obj_plr_damage_source/obj_plr_damage_source.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
