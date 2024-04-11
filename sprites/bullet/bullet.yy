@@ -23,10 +23,10 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"85ee4243-cca6-4669-b84e-2a67c0e7bf9f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 9,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Objects/Player/Weapons/Sprites.yy",
+    "path": "folders/Objects/Player/Weapons/Damage Sources/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -59,7 +59,7 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 16,
+    "xorigin": 1,
     "yorigin": 16,
   },
   "swatchColours": null,
