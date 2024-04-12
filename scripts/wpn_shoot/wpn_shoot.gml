@@ -27,7 +27,7 @@ function wpn_shoot(_barrel_x = 32, _barrel_y = 16){
 				_inst.x = _xpos
 				_inst.y = _ypos
 				
-//				_ammo_count -= 1
+				_ammo_count -= 1
 				
 				alarm[0] = fire_rate;
 			}
