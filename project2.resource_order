@@ -1,11 +1,12 @@
 {
   "FolderOrderSettings": [
     {"name":"Enemies","order":1,"path":"folders/Objects/Enemies.yy",},
+    {"name":"Equipable","order":5,"path":"folders/Objects/Equipable.yy",},
     {"name":"Objectives","order":2,"path":"folders/Objects/Objectives.yy",},
     {"name":"Player","order":3,"path":"folders/Objects/Player.yy",},
     {"name":"Sprites","order":7,"path":"folders/Objects/Player/Weapons/Damage Sources/Sprites.yy",},
     {"name":"Resources","order":4,"path":"folders/Objects/Resources.yy",},
-    {"name":"Equipable","order":5,"path":"folders/Objects/Equipable.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Objects/Resources/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_impact_grenade","order":1,"path":"objects/obj_impact_grenade/obj_impact_grenade.yy",},
