@@ -26,7 +26,7 @@
   "origin": 4,
   "parent": {
     "name": "Sprites",
-    "path": "folders/Objects/Player/Weapons/Sprites.yy",
+    "path": "folders/Objects/Player/Weapons/Damage Sources/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
