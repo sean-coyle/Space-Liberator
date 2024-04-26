@@ -10,8 +10,8 @@ _facing_direction = 0
 // This holds the ID of the weapon being used
 current_weapon = 0
 
-_prim_weapon = instance_create_layer(x,y, "Instances", primary_weapon)
-_seco_weapon = instance_create_layer(x,y, "Instances", secondary_weapon)
+_prim_weapon = instance_create_layer(x,y, "Instances", primary_weapon, {owner: object_index})
+_seco_weapon = instance_create_layer(x,y, "Instances", secondary_weapon, {owner: object_index})
 
 current_weapon = _prim_weapon.id
 
