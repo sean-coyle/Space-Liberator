@@ -2,8 +2,10 @@
   "FolderOrderSettings": [
     {"name":"Sprites","order":7,"path":"folders/Objects/Player/Weapons/Damage Sources/Sprites.yy",},
     {"name":"ShipLaser","order":1,"path":"folders/Objects/Player/Weapons/Primaries/ShipLaser.yy",},
+    {"name":"ShipMissle","order":2,"path":"folders/Objects/Player/Weapons/Primaries/ShipMissle.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"space_boss","order":2,"path":"scripts/space_boss/space_boss.yy",},
     {"name":"world3groundtileset","order":1,"path":"sprites/world3groundtileset/world3groundtileset.yy",},
     {"name":"Spr_Snowmaptrees","order":3,"path":"sprites/Spr_Snowmaptrees/Spr_Snowmaptrees.yy",},
     {"name":"spr_laser_gun","order":1,"path":"sprites/spr_laser_gun/spr_laser_gun.yy",},
@@ -21,5 +23,6 @@
     {"name":"obj_explosion","order":5,"path":"objects/obj_explosion/obj_explosion.yy",},
     {"name":"obj_ground_player","order":1,"path":"objects/obj_ground_player/obj_ground_player.yy",},
     {"name":"obj_bullet","order":6,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_missle_cannon","order":1,"path":"objects/obj_missle_cannon/obj_missle_cannon.yy",},
   ],
 }
