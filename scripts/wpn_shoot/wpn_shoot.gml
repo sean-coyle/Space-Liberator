@@ -1,7 +1,7 @@
 // THIS SHOULD ONLY BE CALLED BY obj_plr_weapon OR ITS CHILDREN
 
 
-function wpn_shoot(_barrel_x = 32, _barrel_y = 16){
+function wpn_shoot(){
 	_ammo_props = {
 		direction: self.direction,
 		image_angle: self.direction,
@@ -15,8 +15,8 @@ function wpn_shoot(_barrel_x = 32, _barrel_y = 16){
 			if _ammo_count > 0 {
 				var _inst = instance_create_layer(x, y, "Instances", ammo_type, _ammo_props);
 				
-				var _delta_x = (_barrel_x - sprite_xoffset)
-				var _delta_y = (_barrel_y - sprite_yoffset)
+				var _delta_x = (barrel_x - sprite_xoffset)
+				var _delta_y = (barrel_y - sprite_yoffset)
 				
 				var _angle = point_direction(0, 0, _delta_x, _delta_y);
 				var _distance = point_distance(0, 0, _delta_x, _delta_y);
