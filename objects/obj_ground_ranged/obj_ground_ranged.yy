@@ -7,7 +7,9 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"propertyId":{"name":"spd","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"value":"2",},
+  ],
   "parent": {
     "name": "Ground",
     "path": "folders/Objects/Enemies/Ground.yy",
