@@ -1,4 +1,21 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Sprites","order":7,"path":"folders/Objects/Player/Weapons/Damage Sources/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"world3groundtileset","order":1,"path":"sprites/world3groundtileset/world3groundtileset.yy",},
+    {"name":"Spr_Snowmaptrees","order":3,"path":"sprites/Spr_Snowmaptrees/Spr_Snowmaptrees.yy",},
+    {"name":"rmp2Ground","order":2,"path":"rooms/rmp2Ground/rmp2Ground.yy",},
+    {"name":"obj_impact_grenade","order":1,"path":"objects/obj_impact_grenade/obj_impact_grenade.yy",},
+    {"name":"obj_missile","order":2,"path":"objects/obj_missile/obj_missile.yy",},
+    {"name":"obj_grenade","order":3,"path":"objects/obj_grenade/obj_grenade.yy",},
+    {"name":"Spr_Snowmaptileset","order":2,"path":"sprites/Spr_Snowmaptileset/Spr_Snowmaptileset.yy",},
+    {"name":"TileSetSnowtree","order":3,"path":"tilesets/TileSetSnowtree/TileSetSnowtree.yy",},
+    {"name":"TileSetSnowMap","order":2,"path":"tilesets/TileSetSnowMap/TileSetSnowMap.yy",},
+    {"name":"obj_laser","order":4,"path":"objects/obj_laser/obj_laser.yy",},
+    {"name":"TileSetWorld3","order":1,"path":"tilesets/TileSetWorld3/TileSetWorld3.yy",},
+    {"name":"obj_explosion","order":5,"path":"objects/obj_explosion/obj_explosion.yy",},
+    {"name":"obj_ground_player","order":1,"path":"objects/obj_ground_player/obj_ground_player.yy",},
+    {"name":"obj_bullet","order":6,"path":"objects/obj_bullet/obj_bullet.yy",},
+  ],
 }
