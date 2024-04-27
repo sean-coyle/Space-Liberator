@@ -1,28 +1,17 @@
 /// @description Insert description here
-// You can write your code in this editor
-/*
-if(room != lose or room != win){
-	if(instance_exists(obj_player_parent)){
-		if(room == rmP1Space){
-			if(!instance_exists(obj_basic_enemy)){
-				room_goto(Tutorial);
-			}
-		}
-	
-		if(room == Tutorial){
-			if(!instance_exists(obj_basic_enemy)){
-				show_debug_message("win");
-				room_goto(win);
-			}
-		}
-	} else {
-		if instance_exists(obj_lose) {
-			obj_lose.visible = true
-		}
+
+if(isEnabled){
+	switch(global.level){
+		case -2: room_goto(Tutorial) break;
+		case -1: room_goto(rmPlayerBaseShip) break;
+		case 0: room_goto(rmP1Space); break;
+		case 1: room_goto(rmP1Ground); break;
+		case 2: room_goto(rmP2Space); break;
+		case 3: room_goto(rmP2Ground); break;
+		case 4: room_goto(rmP3Space); break;
+		case 5: room_goto(rmP3Ground); break;
 	}
 }
-*/
-
 
 
 

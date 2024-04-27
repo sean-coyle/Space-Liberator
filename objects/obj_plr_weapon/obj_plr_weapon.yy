@@ -37,6 +37,8 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"ammo_type","filters":[
         "GMObject",
       ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"barrel_x","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"32","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"barrel_y","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"16","varType":1,},
   ],
   "solid": false,
   "spriteId": null,
