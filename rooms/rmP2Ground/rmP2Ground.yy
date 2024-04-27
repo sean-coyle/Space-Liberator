@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "rmp2Ground",
+  "name": "rmP2Ground",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
