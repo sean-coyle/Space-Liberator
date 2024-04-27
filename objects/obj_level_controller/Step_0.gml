@@ -2,6 +2,7 @@
 
 if(isEnabled){
 	switch(global.level){
+		case -3: room_goto(rm_main_menu) break;
 		case -2: room_goto(Tutorial) break;
 		case -1: room_goto(rmPlayerBaseShip) break;
 		case 0: room_goto(rmP1Space); break;

@@ -1,2 +1,2 @@
-obj_game_controller.isEnabled = false;
+obj_level_controller.isEnabled = false;
 space_init_room(1);
