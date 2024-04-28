@@ -1,10 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-_safe_distance = distance_goal - 50
-_can_fire_weapon = true
-
-_facing_direction = direction
+if(instance_exists(obj_space_controller)){
+	obj_space_controller.space_enemies_remaining -= 1;
+}
 
 // Inherit the parent event
 event_inherited();
