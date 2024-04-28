@@ -158,6 +158,7 @@
     {"id":{"name":"obj_gold_mine","path":"objects/obj_gold_mine/obj_gold_mine.yy",},},
     {"id":{"name":"spr_space_boss_gunner","path":"sprites/spr_space_boss_gunner/spr_space_boss_gunner.yy",},},
     {"id":{"name":"obj_impact_pouch","path":"objects/obj_impact_pouch/obj_impact_pouch.yy",},},
+    {"id":{"name":"tml_space_end","path":"timelines/tml_space_end/tml_space_end.yy",},},
     {"id":{"name":"TileSetWorld3","path":"tilesets/TileSetWorld3/TileSetWorld3.yy",},},
     {"id":{"name":"obj_enemy_fort","path":"objects/obj_enemy_fort/obj_enemy_fort.yy",},},
     {"id":{"name":"obj_super_conductor","path":"objects/obj_super_conductor/obj_super_conductor.yy",},},
