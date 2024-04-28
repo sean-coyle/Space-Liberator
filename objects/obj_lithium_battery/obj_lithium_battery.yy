@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "lithium_battery",
+    "path": "sprites/lithium_battery/lithium_battery.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

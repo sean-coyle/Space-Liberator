@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "oil_barrel",
+    "path": "sprites/oil_barrel/oil_barrel.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
