@@ -46,8 +46,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "enemy_spaceman",
-    "path": "sprites/enemy_spaceman/enemy_spaceman.yy",
+    "name": "spr_enemy",
+    "path": "sprites/spr_enemy/spr_enemy.yy",
   },
   "spriteMaskId": null,
   "visible": true,
