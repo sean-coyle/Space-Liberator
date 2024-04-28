@@ -18,3 +18,6 @@ current_weapon = _prim_weapon.id
 // This list contains the IDs of entities who have hit the enemy
 // Check if an entity has previously hit before allowing for it to deal damage again
 hit_by = ds_list_create()
+
+_interaction_object = -1
+_smallest_distance = interaction_distance

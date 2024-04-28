@@ -1,9 +1,11 @@
 {
   "FolderOrderSettings": [
+    {"name":"Misc","order":1,"path":"folders/Objects/Misc.yy",},
     {"name":"Sprites","order":7,"path":"folders/Objects/Player/Weapons/Damage Sources/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"world3groundtileset","order":1,"path":"sprites/world3groundtileset/world3groundtileset.yy",},
+    {"name":"scr_print_id","order":1,"path":"scripts/scr_print_id/scr_print_id.yy",},
     {"name":"Spr_Snowmaptrees","order":3,"path":"sprites/Spr_Snowmaptrees/Spr_Snowmaptrees.yy",},
     {"name":"rmp2Ground","order":2,"path":"rooms/rmp2Ground/rmp2Ground.yy",},
     {"name":"obj_impact_grenade","order":1,"path":"objects/obj_impact_grenade/obj_impact_grenade.yy",},
@@ -14,6 +16,7 @@
     {"name":"TileSetSnowMap","order":2,"path":"tilesets/TileSetSnowMap/TileSetSnowMap.yy",},
     {"name":"obj_laser","order":4,"path":"objects/obj_laser/obj_laser.yy",},
     {"name":"TileSetWorld3","order":1,"path":"tilesets/TileSetWorld3/TileSetWorld3.yy",},
+    {"name":"spr_interactable","order":2,"path":"sprites/spr_interactable/spr_interactable.yy",},
     {"name":"obj_explosion","order":5,"path":"objects/obj_explosion/obj_explosion.yy",},
     {"name":"obj_ground_player","order":1,"path":"objects/obj_ground_player/obj_ground_player.yy",},
     {"name":"obj_bullet","order":6,"path":"objects/obj_bullet/obj_bullet.yy",},
