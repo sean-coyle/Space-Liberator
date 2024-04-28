@@ -6,7 +6,14 @@ if(space_enemies_remaining = 0 and spawn_space_boss){
 }
 
 if(space_enemies_remaining == 0){
-	instance_destroy(self);
+	if (!timerStarted){
+		timerStarted = true;
+		timeline_index = tml_space_end;
+		timeline_position = 0;
+		timeline_speed = 1;
+		timeline_running = true;
+	}
+
 }
 
 
