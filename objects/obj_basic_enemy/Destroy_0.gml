@@ -8,3 +8,4 @@
 if instance_exists(obj_enemy_spawner) {
 	obj_enemy_spawner.remaining_enemies--
 }*/
+global.enemiesDestroyed += 1;
