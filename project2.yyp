@@ -212,6 +212,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rmP1Space","path":"rooms/rmP1Space/rmP1Space.yy",},},
+    {"roomId":{"name":"rmP2Ground","path":"rooms/rmP2Ground/rmP2Ground.yy",},},
     {"roomId":{"name":"rmP1Ground","path":"rooms/rmP1Ground/rmP1Ground.yy",},},
     {"roomId":{"name":"rmP3Ground","path":"rooms/rmP3Ground/rmP3Ground.yy",},},
     {"roomId":{"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},},
@@ -219,7 +220,7 @@
     {"roomId":{"name":"rmPlayerBaseShip","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},},
     {"roomId":{"name":"rmP2Space","path":"rooms/rmP2Space/rmP2Space.yy",},},
     {"roomId":{"name":"rmP3Space","path":"rooms/rmP3Space/rmP3Space.yy",},},
-    {"roomId":{"name":"rmP2Ground","path":"rooms/rmP2Ground/rmP2Ground.yy",},},
+
     {"roomId":{"name":"rmWin","path":"rooms/rmWin/rmWin.yy",},},
     {"roomId":{"name":"rmLoss","path":"rooms/rmLoss/rmLoss.yy",},},
   ],
