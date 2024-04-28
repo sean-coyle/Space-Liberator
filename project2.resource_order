@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings": [
-    {"name":"Misc","order":1,"path":"folders/Objects/Misc.yy",},
     {"name":"Carrier","order":3,"path":"folders/Objects/Enemies/Space/Carrier.yy",},
     {"name":"Gunner","order":4,"path":"folders/Objects/Enemies/Space/Gunner.yy",},
+    {"name":"Misc","order":1,"path":"folders/Objects/Misc.yy",},
     {"name":"Sprites","order":7,"path":"folders/Objects/Player/Weapons/Damage Sources/Sprites.yy",},
     {"name":"ShipLaser","order":1,"path":"folders/Objects/Player/Weapons/Primaries/ShipLaser.yy",},
     {"name":"ShipMissle","order":2,"path":"folders/Objects/Player/Weapons/Primaries/ShipMissle.yy",},

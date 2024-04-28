@@ -202,7 +202,7 @@
     {"roomId":{"name":"rmPlayerBaseShip","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},},
     {"roomId":{"name":"rmP2Space","path":"rooms/rmP2Space/rmP2Space.yy",},},
     {"roomId":{"name":"rmP3Space","path":"rooms/rmP3Space/rmP3Space.yy",},},
-    {"roomId":{"name":"rmp2Ground","path":"rooms/rmp2Ground/rmp2Ground.yy",},},
+    {"roomId":{"name":"rmP2Ground","path":"rooms/rmP2Ground/rmP2Ground.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
