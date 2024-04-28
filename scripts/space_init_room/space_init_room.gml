@@ -20,4 +20,6 @@ function space_init_room(_modifer){
 		
 	}
 	
+	obj_objective.objective = "Destory all Enemies";
+	
 }

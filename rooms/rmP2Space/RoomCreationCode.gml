@@ -1,2 +1,2 @@
 obj_level_controller.isEnabled = false;
-space_init_room(.4);
+space_init_room(.6);
