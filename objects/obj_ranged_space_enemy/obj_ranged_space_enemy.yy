@@ -8,7 +8,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"propertyId":{"name":"hp","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"value":"10",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"propertyId":{"name":"primary_weapon","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"value":"obj_enemy_bullet",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"propertyId":{"name":"ammo_type","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"value":"obj_enemy_bullet",},
   ],
   "parent": {
     "name": "Space",

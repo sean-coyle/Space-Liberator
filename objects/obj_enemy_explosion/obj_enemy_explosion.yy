@@ -5,7 +5,7 @@
   "eventList": [],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy_weapon","path":"objects/obj_enemy_weapon/obj_enemy_weapon.yy",},"propertyId":{"name":"damage","path":"objects/obj_enemy_weapon/obj_enemy_weapon.yy",},"value":"10",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_enemy_weapon","path":"objects/obj_enemy_weapon/obj_enemy_weapon.yy",},"propertyId":null,"value":"10",},
   ],
   "parent": {
     "name": "Weapons",

@@ -40,7 +40,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"stun_timer","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"30","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"knock_back_amount","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"5","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"score","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"primary_weapon","filters":[
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"ammo_type","filters":[
         "GMObject",
       ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_enemy_bullet","varType":5,},
   ],
