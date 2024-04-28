@@ -1,2 +1,2 @@
 obj_level_controller.isEnabled = false;
-global.lastWinLevel = 1;
+global.lastWinLevel = 5;
