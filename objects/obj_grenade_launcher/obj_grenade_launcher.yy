@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_grenade_pouch",
+  "name": "obj_grenade_launcher",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [
@@ -9,12 +9,12 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"ammo_type","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"obj_grenade",},
   ],
   "parent": {
-    "name": "Grenade Pouch",
-    "path": "folders/Objects/Player/Weapons/Secondaries/Grenade Pouch.yy",
+    "name": "Grenade launcher",
+    "path": "folders/Objects/Player/Weapons/Secondaries/Grenade launcher.yy",
   },
   "parentObjectId": {
-    "name": "obj_impact_pouch",
-    "path": "objects/obj_impact_pouch/obj_impact_pouch.yy",
+    "name": "obj_impact_launcher",
+    "path": "objects/obj_impact_launcher/obj_impact_launcher.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -31,7 +31,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "grenade_launcher",
+    "path": "sprites/grenade_launcher/grenade_launcher.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

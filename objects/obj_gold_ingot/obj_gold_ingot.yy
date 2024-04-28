@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_gold_ore",
+  "name": "obj_gold_ingot",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "gold_ingot",
+    "path": "sprites/gold_ingot/gold_ingot.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
