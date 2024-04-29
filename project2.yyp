@@ -215,9 +215,9 @@
     {"id":{"name":"rmPlayerBaseShip","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rmP1Ground","path":"rooms/rmP1Ground/rmP1Ground.yy",},},
     {"roomId":{"name":"rmP1Space","path":"rooms/rmP1Space/rmP1Space.yy",},},
     {"roomId":{"name":"rmP2Ground","path":"rooms/rmP2Ground/rmP2Ground.yy",},},
-    {"roomId":{"name":"rmP1Ground","path":"rooms/rmP1Ground/rmP1Ground.yy",},},
     {"roomId":{"name":"rmP3Ground","path":"rooms/rmP3Ground/rmP3Ground.yy",},},
     {"roomId":{"name":"rm_main_menu","path":"rooms/rm_main_menu/rm_main_menu.yy",},},
     {"roomId":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
