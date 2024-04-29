@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "TileSetWorld3",
+  "name": "treew3tileset",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "world3groundtileset",
-    "path": "sprites/world3groundtileset/world3groundtileset.yy",
+    "name": "world3trees",
+    "path": "sprites/world3trees/world3trees.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
@@ -422,10 +422,10 @@
   },
   "tileAnimationFrames": [],
   "tileAnimationSpeed": 15.0,
-  "tileHeight": 16,
+  "tileHeight": 32,
   "tilehsep": 0,
   "tilevsep": 0,
-  "tileWidth": 16,
+  "tileWidth": 32,
   "tilexoff": 0,
   "tileyoff": 0,
 }

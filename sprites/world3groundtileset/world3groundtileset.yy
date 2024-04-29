@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "world3groundtileset",
-  "bbox_bottom": 719,
+  "bbox_bottom": 239,
   "bbox_left": 0,
-  "bbox_right": 1241,
+  "bbox_right": 413,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"cdabad5a-71a9-4589-b3cc-fe709fd981eb",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a43bf874-51f7-4cef-bba2-d565af158a89",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 720,
+  "height": 240,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"aac2c758-7e3a-4a41-aeef-4c753aecc9be","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5450c201-1ee3-494f-8fec-92b19c630173","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"cdabad5a-71a9-4589-b3cc-fe709fd981eb","path":"sprites/world3groundtileset/world3groundtileset.yy",},},},"Disabled":false,"id":"61809642-dc91-4901-bb13-30da5cce5de8","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a43bf874-51f7-4cef-bba2-d565af158a89","path":"sprites/world3groundtileset/world3groundtileset.yy",},},},"Disabled":false,"id":"d28409b6-73a7-4b49-937f-864f472c3baf","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1248,
+  "width": 416,
 }
