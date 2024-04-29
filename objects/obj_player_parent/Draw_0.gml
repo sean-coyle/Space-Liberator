@@ -42,7 +42,7 @@ draw_rectangle(
 
 draw_set_color(c_white);
 var ammo_x = health_bar_x + 80;
-var ammo_y = health_bar_y + 700;
+var ammo_y = health_bar_y + 470;
 draw_text(ammo_x, ammo_y, ("Ammo: " + string(self.current_weapon._ammo_count) + " / " + string(self.current_weapon._held_ammo)));
 if(instance_exists(obj_space_player)){
 	draw_text(ammo_x, ammo_y + 20, ("Rocket: " + string(self.secondary_weapon._ammo_count) + " / " + string(self.secondary_weapon._held_ammo)));
