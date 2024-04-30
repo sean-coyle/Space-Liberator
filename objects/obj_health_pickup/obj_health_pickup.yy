@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_ammo_pickup",
+  "name": "obj_health_pickup",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "ammo_pickup",
-    "path": "sprites/ammo_pickup/ammo_pickup.yy",
+    "name": "health_pickup",
+    "path": "sprites/health_pickup/health_pickup.yy",
   },
   "spriteMaskId": null,
   "visible": true,

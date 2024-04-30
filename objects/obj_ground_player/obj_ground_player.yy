@@ -8,6 +8,7 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"hp","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"100",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"primary_weapon","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"obj_assault_rifle",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"secondary_weapon","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"obj_impact_launcher",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"max_hp","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"100",},
   ],
   "parent": {
     "name": "Ground",

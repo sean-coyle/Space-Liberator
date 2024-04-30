@@ -26,7 +26,7 @@ if(!is_stunned and (_distance_to_player > distance_goal)) {
 
 image_angle = direction
 
-if !alarm[0] and _can_fire_weapon {
+if !alarm[0] and _can_fire_weapon and _can_be_seen{
 	var _inst = instance_create_layer(x,y, "Instances", ammo_type);
 	with (_inst) {
 		direction = other.direction
