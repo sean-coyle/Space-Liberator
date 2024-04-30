@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "scr_print_id",
+  "name": "scr_explosive_barrel",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Objects/Misc/Scripts.yy",
+    "name": "Explosive Barrel",
+    "path": "folders/Objects/Misc/Explosive Barrel.yy",
   },
 }

@@ -27,7 +27,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spawn_rate","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"300","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spawn_rate","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"500","varType":1,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"enemy_chance","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.5","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"enemy_1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_basic_enemy","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"enemy_2","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_ground_ranged_special","varType":5,},

@@ -2,7 +2,11 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_enemy_fort",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_explosion_large","path":"objects/obj_explosion_large/obj_explosion_large.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -23,9 +27,17 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
-  "solid": false,
-  "spriteId": null,
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"spawn_rate","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"400","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"enemy_1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_basic_enemy","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"enemy_2","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_ground_ranged_special","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"enemy_chance","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.6","varType":0,},
+  ],
+  "solid": true,
+  "spriteId": {
+    "name": "enemy_fort",
+    "path": "sprites/enemy_fort/enemy_fort.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
