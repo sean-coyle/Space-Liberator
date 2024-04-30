@@ -53,6 +53,7 @@
     {"name":"spr_space_enemy_2","order":6,"path":"sprites/spr_space_enemy_2/spr_space_enemy_2.yy",},
     {"name":"obj_oil_field","order":2,"path":"objects/obj_oil_field/obj_oil_field.yy",},
     {"name":"oil_barrel","order":1,"path":"sprites/oil_barrel/oil_barrel.yy",},
+    {"name":"obj_grnd_objectives_controller","order":4,"path":"objects/obj_grnd_objectives_controller/obj_grnd_objectives_controller.yy",},
     {"name":"obj_health_pickup","order":2,"path":"objects/obj_health_pickup/obj_health_pickup.yy",},
     {"name":"enemy_assault_rifle","order":1,"path":"sprites/enemy_assault_rifle/enemy_assault_rifle.yy",},
     {"name":"obj_play_button","order":2,"path":"objects/obj_play_button/obj_play_button.yy",},
