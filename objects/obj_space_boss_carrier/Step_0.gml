@@ -50,7 +50,7 @@ if(followingPath){
 	
 
 if !alarm[0] and _can_fire_weapon {
-	var _inst = instance_create_layer(x,y, "Instances", primary_weapon);
+	var _inst = instance_create_layer(x,y, "Instances", ammo_type);
 	with (_inst) {
 		direction = other.direction
 		image_angle = other.direction
