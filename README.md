@@ -5,8 +5,8 @@ Artist: Kelley lI
 Designer: Nate Decatur
 
 Instructions:
-A mous is required or highly reccomended
-We recommend playing the turotial as that explains the core mechanics. The player must fight different enemies and complete objectives to progress through zones. 
+A mouse is required or highly recommended
+We recommend playing the tutorial as that explains the core mechanics. The player must fight different enemies and complete objectives to progress through zones. 
 
 Ground Controls:
 WASD to move
@@ -25,5 +25,5 @@ R to reload
 
 Cheat Codes:
 K - Kill all Enemies (progresses some levels)
-O - Increate ammo x100 (Usefull for testing attacks)
+O - Increate ammo x100 (useful for testing attacks)
 L - Reset health
