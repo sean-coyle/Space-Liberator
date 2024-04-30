@@ -11,4 +11,6 @@ function wpn_reload(){
 		_ammo_count += _held_ammo
 		_held_ammo = 0
 	}
+	
+	audio_play_sound(snd_reload, 1, false);
 }
