@@ -1,10 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
-if (global.lastWinLevel != -2) {
+show_debug_message("In CLick Event")
+if (global.lastWinLevel != -2 and global.lastWinLevel != -4) {
 	global.level = 0;
 	obj_level_controller.isEnabled = true;
 } else {
-	global.level = -2;
+	show_debug_message("In CLick Tutorial")
+	obj_level_controller.isEnabled = true
+	global.level = -4;
 }
 
 
