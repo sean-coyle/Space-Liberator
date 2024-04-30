@@ -1,0 +1,22 @@
+All sprites and assets not listed were done by Kelli Li and Sean Coyle
+Licesning and Credits
+All Licenses are CC0 or CC-BY 3.0/4.0 in line with project requirements.
+Licensing Information 
+Sprites and Assets
+"Seamless Space Backgrounds" by Screaming Brain Studios licensed CC0: https://screamingbrainstudios.itch.io/seamless-space-backgrounds
+"Zelda-like tilesets and sprites" by Armando Montero
+https://opengameart.org/content/zelda-like-tilesets-and-sprites”
+"Clockwork Raven" by Clockwork Raven licensed by ClockWork Rave License v.1 https://drive.google.com/file/d/1DWGfcVE5nXsAkaPgqfGqf0lwesv6ug3N/view
+Asset: https://clockworkraven.itch.io/raven-fantasy-pixel-art-tileset-green-forest
+Sounds & Music
+"gun-reload-sound-effects" by Brian Macintosh licensed CC0: https://opengameart.org/content/gun-reload-sound-effects
+"Laser Shot" by Mobeyee Sounds (mobeyee.com) licensed CC-BY 4.0: https://opengameart.org/content/laser-shot-0
+"Light Machine Gun" by KuraiWolf licensed CC-BY 4.0: https://opengameart.org/content/light-machine-gun
+"Tragic Death" by Frenchyboy licensed CC0: https://opengameart.org/content/tragic-death
+"Sci-Fi Theme" by maui licensed CC-BY 4.0: https://opengameart.org/content/sci-fi-theme-1
+"25 CC0 bang / firework SFX" by rubberduck licensed CC0: https://opengameart.org/content/25-cc0-bang-firework-sfx
+MISC Credit:
+Button Components modifed from offical Gamemaker youtube video
+[1]  How To Create A Main Menu In GameMaker  | GameMaker. GameMaker YouTube Channel.
+https://www.youtube.com/watch?v=Us5GSddVedY&t=153s&ab_channel=GameMaker
+
