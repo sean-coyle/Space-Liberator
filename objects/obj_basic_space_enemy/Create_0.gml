@@ -10,5 +10,7 @@
 // Inherit the parent event
 event_inherited();
 if(instance_exists(obj_space_controller)){
-	obj_space_controller.space_enemies_remaining += 1;
+	if(room != TutorialSpace){
+		obj_space_controller.space_enemies_remaining += 1;
+	}
 }
