@@ -150,6 +150,7 @@
     {"name":"inst_63A717FA","path":"rooms/rmP1Ground/rmP1Ground.yy",},
     {"name":"inst_10E736E0","path":"rooms/rmP1Ground/rmP1Ground.yy",},
     {"name":"inst_D35EB05","path":"rooms/rmP1Ground/rmP1Ground.yy",},
+    {"name":"inst_795634F2","path":"rooms/rmP1Ground/rmP1Ground.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -312,6 +313,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D35EB05","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_objective_marker","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_objective_marker","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"propertyId":{"name":"point_to","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"value":"obj_objective_base",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_795634F2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_resources","path":"objects/obj_resources/obj_resources.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2848.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_4","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":79,"SerialiseWidth":94,"TileCompressedData":[
 -7426,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"TileSet_Mine","path":"tilesets/TileSet_Mine/TileSet_Mine.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},

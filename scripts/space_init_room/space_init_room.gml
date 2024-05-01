@@ -29,7 +29,10 @@ function space_init_room(_modifer){
 		instance_create_layer(_rand_x, _rand_y, "Instances", obj_basic_space_enemy);
 		
 	}
+	
 	instance_create_layer(room_width, room_height, "Instances", obj_objective);
 	obj_objective.objective = "Destory all Enemies";
+	instance_create_layer(room_width / 2, room_height, "Instances", obj_resources);
+
 	
 }

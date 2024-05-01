@@ -229,6 +229,7 @@
     {"name":"inst_302BB54C","path":"rooms/rmP2Ground/rmP2Ground.yy",},
     {"name":"inst_2158320D","path":"rooms/rmP2Ground/rmP2Ground.yy",},
     {"name":"inst_3588D8DA","path":"rooms/rmP2Ground/rmP2Ground.yy",},
+    {"name":"inst_48C64062","path":"rooms/rmP2Ground/rmP2Ground.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -494,6 +495,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3588D8DA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_objective_marker","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_objective_marker","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"propertyId":{"name":"point_to","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"value":"obj_objective_base",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_48C64062","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_resources","path":"objects/obj_resources/obj_resources.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Small_details","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":157,"SerialiseWidth":188,"TileCompressedData":[
 -327,-2147483648,1,97,-564,-2147483648,1,97,-1150,-2147483648,1,5,-193,-2147483648,1,4,-201,-2147483648,1,31,-360,-2147483648,1,5,-202,-2147483648,1,4,-179,-2147483648,1,4,-560,-2147483648,1,31,-754,-2147483648,3,96,-2147483648,97,-8,-2147483648,1,96,-163,-2147483648,1,97,-4,-2147483648,1,96,-4,-2147483648,3,97,-2147483648,96,-179,-2147483648,1,96,-374,-2147483648,1,64,-11164,-2147483648,-2,30,-186,-2147483648,1,30,-194,-2147483648,1,30,-168,-2147483648,2,58,59,-3,-2147483648,-2,30,-13,-2147483648,-2,4,3,-2147483648,4,4,-163,-2147483648,2,84,85,-12,-2147483648,1,30,-8,-2147483648,-2,30,-193,-2147483648,1,30,-154,-2147483648,1,30,-186,-2147483648,1,30,-12,-2147483648,-2,30,-6,-2147483648,3,4,-2147483648,4,-169,-2147483648,1,4,-18,-2147483648,-2,4,-166,-2147483648,2,4,30,-19,-2147483648,1,4,-16,-2147483648,1,4,-149,-2147483648,1,4,-4,-2147483648,-2,30,-32,-2147483648,-2,4,1,30,-140,-2147483648,1,30,-5,-2147483648,1,4,-4,-2147483648,1,30,-29,-2147483648,1,30,-170,-2147483648,1,30,-171,
