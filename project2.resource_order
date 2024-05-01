@@ -4,5 +4,8 @@
     {"name":"obj_objective_marker","order":1,"path":"objects/obj_objective_marker/obj_objective_marker.yy",},
     {"name":"snd_gun_shot_enemies","order":1,"path":"sounds/snd_gun_shot_enemies/snd_gun_shot_enemies.yy",},
     {"name":"obj_objective_base","order":1,"path":"objects/obj_objective_base/obj_objective_base.yy",},
+    {"name":"space4","order":1,"path":"sprites/space4/space4.yy",},
+    {"name":"space3","order":1,"path":"sprites/space3/space3.yy",},
+    {"name":"space2","order":1,"path":"sprites/space2/space2.yy",},
   ],
 }
