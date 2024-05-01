@@ -11,6 +11,7 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"ammo_type","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"obj_laser",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"barrel_x","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"32",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"barrel_y","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"52",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"sound_effect","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"snd_laser_shot",},
   ],
   "parent": {
     "name": "ShipLaser",

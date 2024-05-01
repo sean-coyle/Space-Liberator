@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_shield_generator",
+  "name": "obj_fuel_depot",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,7 +9,10 @@
     "name": "Objectives",
     "path": "folders/Objects/Objectives.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_objective_base",
+    "path": "objects/obj_objective_base/obj_objective_base.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

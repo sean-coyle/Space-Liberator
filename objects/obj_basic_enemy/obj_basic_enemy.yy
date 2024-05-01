@@ -46,6 +46,8 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"ammo_type","filters":[
         "GMObject",
       ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"obj_enemy_bullet","varType":5,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"health_drop_chance","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.2","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"ammo_drop_chance","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0.2","varType":0,},
   ],
   "solid": false,
   "spriteId": {

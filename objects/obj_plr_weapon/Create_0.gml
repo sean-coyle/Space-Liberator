@@ -1,5 +1,9 @@
 
-// Stores the maximum mag_size into the ammo count. 
+// Stores the maximum mag_size into the ammo count.
+
+// apply upgrades
+max_ammo *= global.max_ammo_multiplier
+
 // _ammo_count will be decreased each time the weapon is fired
 _ammo_count = mag_size
 

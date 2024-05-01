@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-scr_explosive_barrel()
+_has_been_setoff = false
