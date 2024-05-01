@@ -8,7 +8,7 @@ var _cam_height = camera_get_view_height(view_camera[0]);
 var _closest_distance = -1
 var _closest_enemy = noone;
 
-with(obj_objective_base){
+with(point_to){
 	if(x < _cam_x || x > (_cam_x + _cam_width) || y < _cam_y || y > (_cam_y + _cam_height)){
 		var _point_x = _cam_x + _cam_width / 2;
 		var _point_y = _cam_y + _cam_height / 2;
@@ -32,6 +32,8 @@ if(_closest_enemy != noone){
 
     x = _cam_center_x + lengthdir_x(_dist_marker, _direction);
     y = _cam_center_y + lengthdir_y(_dist_marker, _direction);
+
+	image_angle = _direction
 
     visible = true;  // Show the marker
 } else  {

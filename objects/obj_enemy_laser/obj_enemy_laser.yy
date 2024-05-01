@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_gold_mine",
+  "name": "obj_enemy_laser",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objectives",
-    "path": "folders/Objects/Objectives.yy",
+    "name": "Weapons",
+    "path": "folders/Objects/Enemies/Weapons.yy",
   },
   "parentObjectId": {
-    "name": "obj_objective_base",
-    "path": "objects/obj_objective_base/obj_objective_base.yy",
+    "name": "obj_enemy_bullet",
+    "path": "objects/obj_enemy_bullet/obj_enemy_bullet.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "laser",
+    "path": "sprites/laser/laser.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
