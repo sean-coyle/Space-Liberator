@@ -34,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "grenade_launcher",
-    "path": "sprites/grenade_launcher/grenade_launcher.yy",
+    "name": "impact_launcher",
+    "path": "sprites/impact_launcher/impact_launcher.yy",
   },
   "spriteMaskId": null,
   "visible": true,

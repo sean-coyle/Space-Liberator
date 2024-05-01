@@ -17,4 +17,3 @@ global.health_multiplier = 1
 // Player Resources used for upgrades
 global.gold_owned = 0
 global.lithium_owned = 0
-global.oil_barrel_owned = 0
