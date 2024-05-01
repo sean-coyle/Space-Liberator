@@ -227,6 +227,7 @@
     {"id":{"name":"TileSetWorld3","path":"tilesets/TileSetWorld3/TileSetWorld3.yy",},},
     {"id":{"name":"grenade_launcher","path":"sprites/grenade_launcher/grenade_launcher.yy",},},
     {"id":{"name":"TileSetplayerhub","path":"tilesets/TileSetplayerhub/TileSetplayerhub.yy",},},
+    {"id":{"name":"obj_resources","path":"objects/obj_resources/obj_resources.yy",},},
     {"id":{"name":"snd_loss_theme","path":"sounds/snd_loss_theme/snd_loss_theme.yy",},},
     {"id":{"name":"obj_enemy_fort","path":"objects/obj_enemy_fort/obj_enemy_fort.yy",},},
     {"id":{"name":"spr_interactable","path":"sprites/spr_interactable/spr_interactable.yy",},},
