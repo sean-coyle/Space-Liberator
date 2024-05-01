@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "snd_gun_shot",
+  "name": "snd_gun_shot_enemies",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -17,7 +17,7 @@
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "snd_gun_shot.mp3",
+  "soundFile": "snd_gun_shot_enemies.mp3",
   "type": 0,
-  "volume": 0.05,
+  "volume": 0.02,
 }

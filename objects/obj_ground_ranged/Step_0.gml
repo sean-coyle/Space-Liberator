@@ -33,6 +33,7 @@ if !alarm[0] and _can_fire_weapon and _can_be_seen{
 		image_angle = other.direction
 	}
 	
+	audio_play_sound(snd_gun_shot_enemies, 1, false)
 	alarm[0] = attack_speed
 }
 

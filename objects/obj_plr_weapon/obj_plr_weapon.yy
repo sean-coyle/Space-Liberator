@@ -39,6 +39,7 @@
       ],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":5,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"barrel_x","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"32","varType":1,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"barrel_y","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"16","varType":1,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"sound_effect","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"snd_gun_shot","varType":5,},
   ],
   "solid": false,
   "spriteId": null,

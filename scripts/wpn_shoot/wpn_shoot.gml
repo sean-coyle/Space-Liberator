@@ -29,6 +29,8 @@ function wpn_shoot(){
 				
 				_ammo_count -= 1
 				
+				audio_play_sound(sound_effect, 1, false)
+				
 				alarm[0] = fire_rate;
 			}
 		}

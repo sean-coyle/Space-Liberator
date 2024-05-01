@@ -3,5 +3,7 @@
 
 _completed_objectives = 0
 
+_first_pass = true
+
 timerStarted = false
 

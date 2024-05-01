@@ -1,18 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_gold_mine",
-  "eventList": [],
+  "name": "obj_objective_marker",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objectives",
-    "path": "folders/Objects/Objectives.yy",
+    "name": "Util",
+    "path": "folders/Objects/Util.yy",
   },
-  "parentObjectId": {
-    "name": "obj_objective_base",
-    "path": "objects/obj_objective_base/obj_objective_base.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_enemy_marker",
+    "path": "sprites/spr_enemy_marker/spr_enemy_marker.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
