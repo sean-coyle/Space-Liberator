@@ -10,6 +10,8 @@
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"propertyId":{"name":"attack_damage","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"value":"15",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"propertyId":{"name":"hp","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"value":"100",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_basic_enemy","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"propertyId":{"name":"ammo_type","path":"objects/obj_basic_enemy/obj_basic_enemy.yy",},"value":"obj_enemy_laser",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_ground_ranged","path":"objects/obj_ground_ranged/obj_ground_ranged.yy",},"propertyId":{"name":"wpn_sound_effect","path":"objects/obj_ground_ranged/obj_ground_ranged.yy",},"value":"snd_laser_shot",},
   ],
   "parent": {
     "name": "Gunner",

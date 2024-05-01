@@ -14,7 +14,7 @@ function space_init_room(_modifer){
 		
 	//now we want to spawn the player and set view port for that player on a random y 
 	instance_create_layer(0, room_height, "Instances", obj_space_player);
-	instance_create_layer(0,0, "Instances", obj_enemy_marker);
+	instance_create_layer(0,0, "Instances", obj_objective_marker);
 	
 	for(var _i = 0; _i < _count_ranged; _i++){
 		var _rand_x = room_width;

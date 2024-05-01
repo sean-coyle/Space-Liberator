@@ -34,6 +34,7 @@
   "physicsStartAwake": true,
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"distance_goal","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"250","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"wpn_sound_effect","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"snd_gun_shot","varType":5,},
   ],
   "solid": false,
   "spriteId": {

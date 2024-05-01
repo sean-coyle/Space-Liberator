@@ -4,14 +4,15 @@
   "name": "obj_missle_cannon",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"barrel_x","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"32",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"barrel_y","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"16",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"max_ammo","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"5",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"mag_size","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"1",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"fire_rate","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"1",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"max_ammo","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"12",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"mag_size","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"3",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"fire_rate","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"30",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_weapon","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"propertyId":{"name":"ammo_type","path":"objects/obj_plr_weapon/obj_plr_weapon.yy",},"value":"obj_missile",},
   ],
   "parent": {

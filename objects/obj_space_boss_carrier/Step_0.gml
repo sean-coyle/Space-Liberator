@@ -5,18 +5,20 @@ if(hp <= 0 ){
 	instance_destroy(self);
 }
 
+/*
 var _player_x = obj_player_parent.x
 var _player_y = obj_player_parent.y
 
 var _distance_to_player = point_direction(x,y, _player_x, _player_y);
 
 var followingPath = true;
-
+*/
+/*
 switch(followingPath){
 	case true:
 		if(_distance_to_player < 40){
 			followingPath = false;
-			path_end()
+			//path_end()
 		}
 		break;
 		
@@ -25,8 +27,8 @@ switch(followingPath){
 			followingPath = true;
 	}
 	break;
-}
-
+}*/
+/*
 if(followingPath){
 	path_start(pth_carrier, spd, path_action_reverse, false);
 	_can_fire_weapon = true;
@@ -46,10 +48,10 @@ if(followingPath){
 	y = _test_y
 
 }
-
+*/
 	
 
-if !alarm[0] and _can_fire_weapon {
+if !alarm[0] { // and _can_fire_weapon
 	var _inst = instance_create_layer(x,y, "Instances", ammo_type);
 	with (_inst) {
 		direction = other.direction
@@ -60,5 +62,5 @@ if !alarm[0] and _can_fire_weapon {
 }
 
 
-x = clamp(x, sprite_xoffset, room_width - sprite_xoffset);
-y = clamp(y, sprite_yoffset, room_height - sprite_yoffset);
+x = clamp(x, sprite_xoffset+200, room_width - sprite_xoffset + 200);
+y = clamp(y, sprite_yoffset+200, room_height - sprite_yoffset+200);

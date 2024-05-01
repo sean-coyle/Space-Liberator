@@ -149,6 +149,7 @@
     {"name":"inst_3728C06F","path":"rooms/rmP1Ground/rmP1Ground.yy",},
     {"name":"inst_63A717FA","path":"rooms/rmP1Ground/rmP1Ground.yy",},
     {"name":"inst_10E736E0","path":"rooms/rmP1Ground/rmP1Ground.yy",},
+    {"name":"inst_D35EB05","path":"rooms/rmP1Ground/rmP1Ground.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -303,12 +304,14 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E0FE627","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_enemy_fort","path":"objects/obj_enemy_fort/obj_enemy_fort.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2720.0,"y":1440.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3728C06F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_explosive_barrel","path":"objects/obj_explosive_barrel/obj_explosive_barrel.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2656.0,"y":1376.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_63A717FA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_grnd_objectives_controller","path":"objects/obj_grnd_objectives_controller/obj_grnd_objectives_controller.yy",},"properties":[
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_grnd_objectives_controller","path":"objects/obj_grnd_objectives_controller/obj_grnd_objectives_controller.yy",},"propertyId":{"name":"next_level","path":"objects/obj_grnd_objectives_controller/obj_grnd_objectives_controller.yy",},"value":"2",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_grnd_objectives_controller","path":"objects/obj_grnd_objectives_controller/obj_grnd_objectives_controller.yy",},"propertyId":{"name":"num_objectives","path":"objects/obj_grnd_objectives_controller/obj_grnd_objectives_controller.yy",},"value":"6",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":32.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10E736E0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_objective","path":"objects/obj_objective/obj_objective.yy",},"properties":[
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_objective","path":"objects/obj_objective/obj_objective.yy",},"propertyId":{"name":"objective","path":"objects/obj_objective/obj_objective.yy",},"value":"\"Destroy enemy barracks\"",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_objective","path":"objects/obj_objective/obj_objective.yy",},"propertyId":{"name":"objective","path":"objects/obj_objective/obj_objective.yy",},"value":"\"Destroy enemy barracks\\nInteract or Shoot Barrels\"",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":32.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_D35EB05","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_objective_marker","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_objective_marker","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"propertyId":{"name":"point_to","path":"objects/obj_objective_marker/obj_objective_marker.yy",},"value":"obj_objective_base",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":160.0,"y":32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_4","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":79,"SerialiseWidth":94,"TileCompressedData":[
 -7426,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"TileSet_Mine","path":"tilesets/TileSet_Mine/TileSet_Mine.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
@@ -475,7 +478,7 @@
   },
   "sequenceId": null,
   "views": [
-    {"hborder":300,"hport":1080,"hspeed":-1,"hview":540,"inherit":false,"objectId":{"name":"obj_ground_player","path":"objects/obj_ground_player/obj_ground_player.yy",},"vborder":300,"visible":true,"vspeed":-1,"wport":1920,"wview":960,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":500,"hport":1080,"hspeed":-1,"hview":540,"inherit":false,"objectId":{"name":"obj_ground_player","path":"objects/obj_ground_player/obj_ground_player.yy",},"vborder":500,"visible":true,"vspeed":-1,"wport":1920,"wview":960,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},

@@ -9,10 +9,11 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":null,"propertyId":null,"value":"100",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"hp","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"99",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"hp","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"100",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"primary_weapon","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"obj_laser_gun",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"secondary_weapon","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"obj_missle_cannon",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"player_speed","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"6",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_player_parent","path":"objects/obj_player_parent/obj_player_parent.yy",},"propertyId":{"name":"max_hp","path":"objects/obj_player_parent/obj_player_parent.yy",},"value":"100",},
   ],
   "parent": {
     "name": "Space",
