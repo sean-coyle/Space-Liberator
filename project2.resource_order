@@ -11,6 +11,7 @@
     {"name":"space3","order":1,"path":"sprites/space3/space3.yy",},
     {"name":"snd_gun_shot_enemies","order":1,"path":"sounds/snd_gun_shot_enemies/snd_gun_shot_enemies.yy",},
     {"name":"space2","order":1,"path":"sprites/space2/space2.yy",},
+    {"name":"obj_resources","order":1,"path":"objects/obj_resources/obj_resources.yy",},
     {"name":"scr_null","order":1,"path":"scripts/scr_null/scr_null.yy",},
     {"name":"obj_objective_base","order":1,"path":"objects/obj_objective_base/obj_objective_base.yy",},
   ],
