@@ -4,6 +4,8 @@
 // apply upgrades
 max_ammo *= global.max_ammo_multiplier
 
+show_debug_message("Max Ammo: {0}", max_ammo)
+
 // _ammo_count will be decreased each time the weapon is fired
 _ammo_count = mag_size
 

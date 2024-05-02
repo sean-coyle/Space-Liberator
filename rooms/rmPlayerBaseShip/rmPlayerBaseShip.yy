@@ -16,6 +16,7 @@
     {"name":"inst_2FFA2ECE","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
     {"name":"inst_75CE9444","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
     {"name":"inst_1CEE0C18","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
+    {"name":"inst_4919C532","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -37,6 +38,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_switch_weapon","path":"objects/obj_switch_weapon/obj_switch_weapon.yy",},"propertyId":{"name":"is_primary","path":"objects/obj_switch_weapon/obj_switch_weapon.yy",},"value":"False",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_switch_weapon","path":"objects/obj_switch_weapon/obj_switch_weapon.yy",},"propertyId":{"name":"weapon","path":"objects/obj_switch_weapon/obj_switch_weapon.yy",},"value":"obj_impact_launcher",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":627.0,"y":60.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4919C532","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_resources","path":"objects/obj_resources/obj_resources.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":864.0,"y":64.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_6ADFDD8C","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"upgrades_sign","path":"sprites/upgrades_sign/upgrades_sign.yy",},"x":241.0,"y":144.0,},
