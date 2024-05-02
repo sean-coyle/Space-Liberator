@@ -25,6 +25,8 @@
     {"name":"inst_5B2C8AC5","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
     {"name":"inst_6DE3881D","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
     {"name":"inst_2BDCD155","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
+    {"name":"inst_630FF635","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
+    {"name":"inst_3D5ED7AB","path":"rooms/rmPlayerBaseShip/rmPlayerBaseShip.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -66,6 +68,11 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_color_btn","path":"objects/obj_plr_color_btn/obj_plr_color_btn.yy",},"propertyId":{"name":"red_val","path":"objects/obj_plr_color_btn/obj_plr_color_btn.yy",},"value":"0.5",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_plr_color_btn","path":"objects/obj_plr_color_btn/obj_plr_color_btn.yy",},"propertyId":{"name":"blue_val","path":"objects/obj_plr_color_btn/obj_plr_color_btn.yy",},"value":"0.5",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":633.0,"y":311.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_630FF635","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_dialog","path":"objects/obj_dialog/obj_dialog.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_dialog","path":"objects/obj_dialog/obj_dialog.yy",},"propertyId":{"name":"subtext","path":"objects/obj_dialog/obj_dialog.yy",},"value":"with items",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},"propertyId":{"name":"text","path":"objects/obj_button/obj_button.yy",},"value":"Press E to Interact",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":64.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3D5ED7AB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_ship_additional_tutorial","path":"objects/obj_ship_additional_tutorial/obj_ship_additional_tutorial.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":64.0,"y":32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_1","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_6ADFDD8C","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"upgrades_sign","path":"sprites/upgrades_sign/upgrades_sign.yy",},"x":241.0,"y":144.0,},
