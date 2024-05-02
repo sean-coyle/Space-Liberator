@@ -4,6 +4,7 @@
     {"name":"Scripts","order":3,"path":"folders/Objects/BaseShipControllers/Scripts.yy",},
     {"name":"Sprites","order":6,"path":"folders/Objects/BaseShipControllers/Sprites.yy",},
     {"name":"Scripts","order":2,"path":"folders/Objects/Objectives/Scripts.yy",},
+    {"name":"Player Color Control","order":7,"path":"folders/Objects/BaseShipControllers/Player Color Control.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"health_upgrade","order":1,"path":"sprites/health_upgrade/health_upgrade.yy",},
@@ -16,6 +17,7 @@
     {"name":"oil_barrel_objective","order":2,"path":"sprites/oil_barrel_objective/oil_barrel_objective.yy",},
     {"name":"obj_enemy_laser","order":1,"path":"objects/obj_enemy_laser/obj_enemy_laser.yy",},
     {"name":"resource_barrel","order":3,"path":"sprites/resource_barrel/resource_barrel.yy",},
+    {"name":"suit_color","order":5,"path":"sprites/suit_color/suit_color.yy",},
     {"name":"impact_launcher","order":1,"path":"sprites/impact_launcher/impact_launcher.yy",},
     {"name":"obj_switch_weapon","order":2,"path":"objects/obj_switch_weapon/obj_switch_weapon.yy",},
     {"name":"scr_upgrade","order":2,"path":"scripts/scr_upgrade/scr_upgrade.yy",},
@@ -27,6 +29,7 @@
     {"name":"obj_upgrade_health","order":4,"path":"objects/obj_upgrade_health/obj_upgrade_health.yy",},
     {"name":"armoury_sign","order":3,"path":"sprites/armoury_sign/armoury_sign.yy",},
     {"name":"scr_null","order":1,"path":"scripts/scr_null/scr_null.yy",},
+    {"name":"scr_plr_color_change","order":1,"path":"scripts/scr_plr_color_change/scr_plr_color_change.yy",},
     {"name":"obj_objective_base","order":1,"path":"objects/obj_objective_base/obj_objective_base.yy",},
     {"name":"obj_upgrade_ammo","order":5,"path":"objects/obj_upgrade_ammo/obj_upgrade_ammo.yy",},
   ],
