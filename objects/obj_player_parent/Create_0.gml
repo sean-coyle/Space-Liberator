@@ -1,6 +1,6 @@
 // Apply Upgrades
 max_hp *= global.health_multiplier
-
+show_debug_message("Max Health: {0}", max_hp)
 enum STATES{
 	TALKING,
 	REGULAR, // default is a keyword :(

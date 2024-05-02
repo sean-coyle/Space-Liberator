@@ -12,8 +12,8 @@ if(isEnabled){
 		case 3: room_goto(rmP2Ground); break;
 		case 4: room_goto(rmP3Space); break;
 		case 5: room_goto(rmP3Ground); break;
-		case 6: room_goto(rmWin);
-		case 7: room_goto(rmLoss)
+		case 6: room_goto(rmWin) break;
+		case 7: room_goto(rmLoss) break;
 	}
 }
 
