@@ -19,3 +19,5 @@ global.gold_owned = 0
 global.lithium_owned = 0
 
 global.plr_color = [0.0, 0.0, 0.0]
+
+global.first_time_in_ship = true
